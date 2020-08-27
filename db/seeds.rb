@@ -9,9 +9,9 @@
 
 
 
-ssgrill = Restaurant.create(name: "Shobu Sushi & Grill", street_address: "9427 5th Ave", city: "Brooklyn", State:, "NY. 11209?", category: "Japanese, Sushi Bar")
-chip = Restaurant.create(name: "Chipolte Mexican Grill", street_address: "463 86th St", city: "Brooklyn", State:, "NY. 11209?", category: "Mexican")
-ichi = Restaurant.create(name: "IchiUmi", street_address: "6 E 32nd St", city: "New York", State:, "NY. 10016", category: "Japanese Buffet")
-lb = Restaurant.create(name: "L&B Spumoni Garden", street_address: "2725 86th St", city: "Brooklyn", State:, "NY. 11223", category: "Italian")
-86 = Restaurant.create(name: "86 Noodles", street_address: "8608 4th Ave", city: "Broolyn", State:, "NY, 11209", category: "Chinese")
- = Restaurant.create(name: "", street_address: "", city: "", State:, "", category: "")
+ssgrill = Restaurant.create(name: "Shobu Sushi & Grill", street_address: "9427 5th Ave", city: "Brooklyn", state: "NY. 11209", category: "Japanese, Sushi Bar")
+chip = Restaurant.create(name: "Chipolte Mexican Grill", street_address: "463 86th St", city: "Brooklyn", state: "NY. 11209", category: "Mexican")
+ichi = Restaurant.create(name: "IchiUmi", street_address: "6 E 32nd St", city: "New York", state: "NY. 10016", category: "Japanese Buffet")
+lb = Restaurant.create(name: "L&B Spumoni Garden", street_address: "2725 86th St", city: "Brooklyn", state: "NY. 11223", category: "Italian")
+#86noodles = Restaurant.create(name: "86 Noodles", street_address: "8608 4th Ave", city: "Broolyn", State: "NY, 11209", category: "Chinese")
+# = Restaurant.create(name: "", street_address: "", city: "", State: "", category: "")
